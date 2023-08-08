@@ -74,6 +74,12 @@
       "name": "roma",
       "price": "045",
       "checked": true
+    },
+    {
+      "id": 12,
+      "name": "tv",
+      "price": "745",
+      "checked": false
     }
   ]
 }
