@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1lZCIsImxhc3RuYW1lIjoiWU9VU1NGSSIsImVtYWlsIjoibWVkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.0yVuGZJ0Y8f9EOxA0aD92nwlSzoxBqibwbtFibe6at8"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1lZCIsImxhc3RuYW1lIjoiWU9VU1NGSSIsImVtYWlsIjoibWVkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0._UZo3C7e3-M3_eI_z3rzOOlxvmXzqNoIlTmTiWKB4nU"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1lZCIsImxhc3RuYW1lIjoiWU9VU1NGSSIsImVtYWlsIjoibWVkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.NdmZ3qPmpl6jF9VZHEd-lGsN-VU6i1zfYQ_W69XGv40"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 2450,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "printers",
+      "price": "7458",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "smart phone",
+      "price": 1485,
+      "checked": true
+    },
+    {
+      "id": 7,
+      "name": "fdx",
+      "price": "451",
+      "checked": true
+    },
+    {
+      "id": 8,
+      "name": "souad",
+      "price": "6542",
+      "checked": true
+    },
+    {
+      "id": 9,
+      "name": "hfvghgj",
+      "price": "7552",
+      "checked": false
+    },
+    {
+      "id": 10,
+      "name": "hdgdsg",
+      "price": "0.541",
+      "checked": true
+    },
+    {
+      "id": 11,
+      "name": "roma",
+      "price": "045",
+      "checked": true
+    }
+  ]
+}
